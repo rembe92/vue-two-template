@@ -1,5 +1,7 @@
 # empty-vue-two-template
 
+template generated with vue create (vue 2)
+
 ## Project setup
 ```
 npm install
